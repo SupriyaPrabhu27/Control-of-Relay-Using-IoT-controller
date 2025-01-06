@@ -1,8 +1,8 @@
+# NAME:SUPRIYA PRABHU
+
+# REG NO:24001111
+
 # EXPERIMENT 2 Control-of-Relay-Using-IoT-controller
-
-NAME:SUPRIYA PRABHU
-
-REG NO:24001111
 
 ##  AIM:
 To control the Relay using Arduino controller
